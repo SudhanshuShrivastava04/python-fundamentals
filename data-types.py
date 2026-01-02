@@ -1,4 +1,4 @@
-data = [10, 3.5, "DS", True, [1,2], (1,2), {"a":1}, {1,2}, None]
+data = [10, 3.5, "DS", True, [1,2], (1,2), {"a":1}, {1,2}, None, bytearray(b"abc"), bytes(b"abc"), frozenset({1, 2}),]
 
 mutable_types = (list, dict, set, bytearray)
 
