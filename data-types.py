@@ -1,8 +1,8 @@
 class CustomObject:
-    def __init__(self, value):
+    def __init__(self, value): #constructor
         self.value = value
 
-    def __repr__(self):
+    def __repr__(self): # string representation of object
         return f"{self.value}"
 
 
