@@ -1,4 +1,4 @@
-print("Student Performance Analyzer\n")
+print("\nSTUDENT PERFORMANCE ANALYZER\n")
 
 names = input("\nEnter student names seperated by space\n")
 marks = input("\nEnter students's marks in same order you entered names and seperated by space\n")
